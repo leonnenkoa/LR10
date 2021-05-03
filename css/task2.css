@@ -10,7 +10,7 @@ body {
     width: 95%;
     margin: 20px auto;
     display: flex;
-    background-color: gray;
+    background-color: pink;
 }
 
 .row__cell {
